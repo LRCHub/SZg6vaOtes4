@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "少年のままだ / よじね　feat.琴葉葵",
+  "base_artist": "よじね / Yojine",
+  "createdAt": "2026-02-07T08:49:03.979621Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "少年のままだ",
+      "artist": "よじね & 琴葉葵",
+      "has_synced": false,
+      "path": "select/pl_01_少年のままだ_よじね_&_琴葉葵.txt"
+    }
+  ]
+}
